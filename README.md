@@ -1,5 +1,5 @@
 # Heart-Failure-Prediction-Model-Using-Machine-Learning
-This project predicts heart failure cases successfully for most of the cases
+This project predicts heart failure cases successfully for most of the cases.
 This is a Supervised classification Machine Learning model that predicts heart failure cases on the basis of Age, Cholesterol, Resting blood pressure, maximum heart rate etc.
 The data set for this project is taken from Kaggle.
 This project is build using Python language.
